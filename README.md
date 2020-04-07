@@ -6,3 +6,5 @@ Following are the important notes:
 - ERC-721 Token Name: "LCStarToken",
 - ERC-721 Token Symbol: "LCST",
 - Token Address on the Rinkeby Network: "0x8cF4b89149C2033d7bdAdF6A47B3337014f8FC72"
+
+To start the with Rinkeby network, please add file <code>.secret</code> which contains the seed of your MetaMask wallet to this project folder.
